@@ -1,4 +1,4 @@
-Name
+初めてのGit
 ====
 
 Overview
